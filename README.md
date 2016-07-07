@@ -1,7 +1,7 @@
 travis_after_all
 ================
 
-[![Build Status](https://travis-ci.org/dmakhno/travis_after_all.png?branch=master)](https://travis-ci.org/dmakhno/travis_after_all)
+[![Build Status](https://travis-ci.org/jbdeboer/travis_after_all.png?branch=master)](https://travis-ci.org/jbdeboer/travis_after_all)
 
 This is Travis CI helper to run particular work only once in matrix.
 
